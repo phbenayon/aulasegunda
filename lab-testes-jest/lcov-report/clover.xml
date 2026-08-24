@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1787581491525" clover="3.2.0">
+  <project timestamp="1787581491525" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="16" coveredconditionals="16" methods="3" coveredmethods="3" elements="37" coveredelements="37" complexity="0" loc="18" ncloc="18" packages="1" files="2" classes="2"/>
+    <file name="CalcularTaxaEntrega.js" path="/workspaces/aulasegunda/lab-testes-jest/CalcularTaxaEntrega.js">
+      <metrics statements="10" coveredstatements="10" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <line num="3" count="4" type="stmt"/>
+      <line num="4" count="4" type="stmt"/>
+      <line num="9" count="13" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="13" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="3" type="stmt"/>
+      <line num="15" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="18" count="3" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+    <file name="validadorDesconto.js" path="/workspaces/aulasegunda/lab-testes-jest/validadorDesconto.js">
+      <metrics statements="8" coveredstatements="8" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <line num="2" count="9" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
